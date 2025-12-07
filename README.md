@@ -6,7 +6,7 @@ ML &amp; Analytics project to predict hospital readmissions using Diabetes 130-U
 │   └── Final_Readmission_Model_Notebook.ipynb
 
 📁 powerbi/
-│   └── Readmission_Dashboard.pbix
+│   └── Readmission_Dashboard.pbix (PowerBi file is too large to upload in Github so only dashboard screenshot shared)
 
 📁 Final reports & Summary
 │   ├── Final_Project_Report.pdf
